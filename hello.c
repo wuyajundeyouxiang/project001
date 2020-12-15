@@ -12,5 +12,6 @@ int main()
 =======
     printf("good job!");
 >>>>>>> main
+printf("2");
     return 0;
 }
