@@ -13,5 +13,6 @@ int main()
 =======
     printf("good job!");
 >>>>>>> main
+printf("3");
     return 0;
 }
