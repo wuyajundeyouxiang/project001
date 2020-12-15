@@ -7,11 +7,11 @@ int multiply(int a,int b)
 
 int main()
 {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     printf("yoyo conflict!");
 =======
     printf("good job!");
 >>>>>>> main
-printf("2");
     return 0;
 }
