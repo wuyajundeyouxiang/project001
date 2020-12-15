@@ -7,6 +7,9 @@ int multiply(int a,int b)
 
 int main()
 {
+<<<<<<< HEAD
     printf("yoyo conflict!");
+=======
+>>>>>>> main
     return 0;
 }
